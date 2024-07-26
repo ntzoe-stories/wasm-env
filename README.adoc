@@ -5,5 +5,5 @@ used to setup WASM developments environment (with C).
 
 == dependencies.
 
-  - LLVM (as ccompiler).
-  - WAST-libc (to compile with c standard library).
+  - https://github.com/llvm/llvm-project[LLVM] (ccompiler).
+  - https://github.com/WebAssembly/wasi-libc[WASI-libc] (to compile with C standard library).
